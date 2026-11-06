@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+backend/.env
+frontend/.env
+frontend/.env.local
+.vercel/
+backend/uploads/
+backend/*.db
